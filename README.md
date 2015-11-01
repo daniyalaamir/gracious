@@ -4,4 +4,4 @@ Converted photoshop design into fully functional HTML5, CSS3, Bootstrap, and Jav
 
 Live Demo: http://daniyalaamir.github.io/gracious/
 
-Alt. version using jQuery slider: http://daniyalaamir.github.io/gracious/index-slider.html
+Demo using jQuery slider: http://daniyalaamir.github.io/gracious/index-slider.html
