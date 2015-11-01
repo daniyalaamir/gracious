@@ -1049,3 +1049,10 @@ section.module-black .button {
     margin-left: -6px;
     text-decoration: none;
 }
+
+.ff-message {
+    margin: 0 0 0 5px;
+    color: red !important;
+    font-size: 11px !important;
+}
+

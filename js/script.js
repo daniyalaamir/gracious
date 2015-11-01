@@ -150,6 +150,20 @@ $(document).ready(function() {
     
     
     /* ============================= 
+               FORM VALIDATION 
+    ================================ */
+    $('#formid').feelform({
+        preventDefaultSubmit: true,
+        notificationType: 'message, border',
+        gravity: 'bottom',
+        validateOnTheFly: true,
+        clearAfterSubmit: true
+    });
+    
+    
+    
+    
+    /* ============================= 
                WOW JS 
     ================================ */
     new WOW().init();
